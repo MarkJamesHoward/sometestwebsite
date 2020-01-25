@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "",
+  "appService.defaultWebAppToDeploy": "/subscriptions/ce2b00d4-956a-406a-9cb5-79a8ccec30f9/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/WeatherAPITestX"
+}
