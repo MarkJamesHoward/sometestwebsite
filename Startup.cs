@@ -35,6 +35,7 @@ namespace api2
       {
         app.UseDeveloperExceptionPage();
       }
+      
 
       app.UseRouting();
 
